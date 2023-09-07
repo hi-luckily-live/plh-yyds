@@ -41,8 +41,8 @@ main: #简历主要内容，
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - JAVA
-  - title: Java语言基础
-    summary: 
+  - title: 计算机基础
+    summary: 操作系统,了解计算机网络,数据结构和算法
 
 - type: experience
   name: 经验
