@@ -4,7 +4,7 @@
 title: "彭龙皓的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "彭龙皓"
-jobtitle: "JAVA后端开发工程师-1.2K" #可空不显示
+jobtitle: "JAVA后端开发工程师-1.5K" #可空不显示
 photo: "assets/img/photo.jpg" #照片可空，不显示
 
 #联系方式
@@ -38,7 +38,8 @@ main: #简历主要内容，
 - type: 技能清单
   # name: "技能"
   content:
-  - title: 熟悉Java核心知识，多年一线研发经验，良好的编程经验，并熟悉使用设计模式
+  - title: 1.熟悉Java核心知识，多年一线研发经验，良好的编程经验，并熟悉使用设计模式。
+           2.熟悉Java并发编程，对Java各种锁机制，线程池机制，AQS等都有深入理解，并且熟练在项目中使用
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - JAVA
