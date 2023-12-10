@@ -35,8 +35,7 @@ main: #简历主要内容，
     sub: 广东东莞
     detail: 计算机软件工程
 
-- type: 技能描述
-  name: "后端技能"
+- type: 后端技能
   content:
   - title: 1.精通Java核心知识，多年一线研发经验，具备良好的编程能力，并熟悉使用设计模式。
   - title: 2.精通Javase基础知识，对集合,线程，Io都有深入的理解。
@@ -46,8 +45,9 @@ main: #简历主要内容，
   - title: 6.熟悉redis，了解底层磁盘及10模型,数据持久化机制，哨兵机制，对于单机和集群redis都有实际经验。
   - title: 7.了解springcloud，springcloud alibaba，dubbo等微服务框架。
   - title: 8.熟练常用的用具PowerDesigner，Git，Svn，Maven。
-    name: "前端技能"
-    content:
+
+- type: 前端技能    
+  content:
   - title: 精通HTML常用标签，表单，表单校验，SEO搜索优化。
   - title: 精通CSS基本语法，布局(盒子模型，定位position，浮动float，flex，layout)，响应式设计。
   - title: 精通JavaScript,基本语法DOM，es6，变量提升，作用域，原型，面向对象。
