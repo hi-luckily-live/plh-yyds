@@ -41,11 +41,11 @@ main: #简历主要内容，
   - title: 1.精通Java核心知识，多年一线研发经验，具备良好的编程能力，并熟悉使用设计模式。
   - title: 2.精通Javase基础知识，对集合,线程，Io都有深入的理解。
   - title: 3.熟悉Java并发编程，对Java各种锁机制，线程池机制，AQS等都有深入理解，并且熟练在项目中使用。
-  
+  - title: 4.熟悉spring，springmvc，mybatis，springboot等核心框架，可以根据需求快速搭建项目，并阅读过核心源码(看循环依赖的核心代码实现,bean的生命周期,springboot自动装配原理)。
   - title: 5.熟悉mysql安装配置，以及mysql的锁，事务，索引等都有深入研究，并参与过线上项目的调优工作。
   - title: 6.熟悉redis，了解底层磁盘及10模型,数据持久化机制，哨兵机制，对于单机和集群redis都有实际经验。
   - title: 7.了解springcloud，springcloud alibaba，dubbo等微服务框架。
-  - title: 8.熟练常用的用具: PowerDesigner，Git，Svn，Maven。
+  - title: 8.熟练常用的用具PowerDesigner，Git，Svn，Maven。
   name: "前端技能"
   content:
   - title: 精通HTML常用标签，表单，表单校验，SEO搜索优化。
