@@ -1,7 +1,7 @@
 # 数据格式可以为 yaml(文件以.yml结尾) 或者json(文件以.json结尾)
 # 如果YAML格式的数据请先检查格式是否有误，可选检查工具 http://www.yamllint.com
 
-title: "你好简历君"
+title: "彭龙皓的简历"
 lang: "zh" #语言设置 zh表示中文 en 表示英语
 name: "彭龙皓"
 jobtitle: "JAVA后端开发工程师" #可空不显示
@@ -18,7 +18,7 @@ contact: #联系方式连接等3~5行
 - text: "XXX"
   href: 'http://your-website.com'
   icon: 'icons/web.svg'
-- text: "GitHubID"
+- text: "广东 揭阳"
   href: 'https://github.com/NewFuture'
   icon: "icons/github.svg"
   attr: 'target="_blank"' #新标签页打开
