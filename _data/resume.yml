@@ -38,6 +38,7 @@ main: #简历主要内容，
 - type: 技能清单
   # name: "技能"
   content:
+  - title: 熟悉Java核心知识，多年一线研发经验，良好的编程经验，并熟悉使用设计模式
   - title: 编程语言
     items: #itmems 可以小块的方式显示
     - JAVA
