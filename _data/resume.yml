@@ -58,20 +58,13 @@ main: #简历主要内容，
   - title: Java后端开发工程师
     sub: 广东中德奥智慧医疗有限公司
     duration: "2022年08月 - 至今"
-    tags:
-    - 项目名称-广东中德奥智慧医疗平台
-    summary: 项目描述
-    detail: 智慧医疗平台主要作用是提升了医疗效率，简化诊断和治疗流程，提升患者住院体验。核心模块有智慧医疗病房，智能门禁，门诊叫号，远程探视，线上点餐。
-    open: open
-    #可以设置open默认展开
+
   - title: 项目名称-广东中德奥智慧医疗平台
     sub: Your 2nd, Inc.  
-    duration: 项目描述
-    tags: 
-    - 项目描述
     summary: 项目描述
     detail: 智慧医疗平台主要作用是提升了医疗效率，简化诊断和治疗流程，提升患者住院体验。核心模块有智慧医疗病房，智能门禁，门诊叫号，远程探视，线上点餐。 
     open: open
+    
 
 - type: projects
   name: Projects
