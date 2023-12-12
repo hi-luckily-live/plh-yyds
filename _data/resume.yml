@@ -55,14 +55,14 @@ main: #简历主要内容，
 - type: experience
   name: 经验
   content:
-  - title: 职位
-    sub: 某某公司
-    duration: "xxxx年xx月 - yyyy年yy月"
+  - title: Java后端开发工程师
+    sub: 广东中德奥智慧医疗有限公司
+    duration: "2022年08月 - 至今"
     tags:
-    - 标签
-    summary: 职务或者工作总结(自动折叠)
-    detail: 同时包含 summary和detail在Chrome，Safari(包括IOS)，Android和新版Firefox等会自动折叠，不支持折叠的浏览器和展开后表现一致
-    # open: open
+    - 项目名称-广东中德奥智慧医疗平台
+    summary: 项目描述
+    detail: 智慧医疗平台主要作用是提升了医疗效率，简化诊断和治疗流程，提升患者住院体验
+    open: open
     #可以设置open默认展开
   - title: Job Title
     sub: Your 2nd, Inc.  
