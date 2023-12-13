@@ -67,7 +67,7 @@ main: #简历主要内容，
     open: open
 
   - summary: 技术架构
-    detail: IIS，MQTT，Elastic Serch，Redis，Netty，Mysql，Mybatis，Vue，Node，Webpack,Gradle
+    detail: IIS+MQTT+Elastic Serch+Redis+Netty+Mysql+Mybatis+Vue+Node+Webpack+Gradle
     open: open
 
 - type: projects
