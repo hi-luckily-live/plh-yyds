@@ -37,7 +37,7 @@ main: #简历主要内容，
   - title: 5.熟悉mysql安装配置，以及mysql的锁，事务，索引等都有深入研究，并参与过线上项目的调优工作。
   - title: 6.熟悉redis，了解底层磁盘及10模型,数据持久化机制，哨兵机制，对于单机和集群redis都有实际经验。
   - title: 7.了解springcloud，springcloud alibaba，dubbo等微服务框架。
-  - title: 8.熟练使用工具PowerDesigner，Git，Postman，idea，vscode,navicat，。
+  - title: 8.熟练使用工具PowerDesigner，Git，Postman，idea，vscode，navicat。
 
 - type: 前端技能    
   content:
@@ -64,7 +64,8 @@ main: #简历主要内容，
     open: open
 
   - summary: 主要职责
-    detail: 1.对方的|2.dfsdf
+    detail: 1.对方的
+    - 2.dfsdf
     open: open
 
 - type: projects
