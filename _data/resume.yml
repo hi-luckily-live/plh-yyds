@@ -43,7 +43,7 @@ main: #简历主要内容，
   content:
   - title: 精通HTML常用标签，表单，表单校验，SEO搜索优化。
   - title: 精通CSS基本语法，布局(盒子模型，定位position，浮动float，flex，layout)，响应式设计。
-  - title: 精通JavaScript,基本语法DOM，es6，变量提升，作用域，原型，面向对象。
+  - title: 精通JavaScript,基本语法DOM，ES6，变量提升，作用域，原型，面向对象。
   
 - type: experience
   name: 经验
@@ -65,7 +65,7 @@ main: #简历主要内容，
 
   - summary: 主要职责
     detail: 1.对方的
-    - 2.dfsdf
+            - 2.dfsdf
     open: open
 
 - type: projects
