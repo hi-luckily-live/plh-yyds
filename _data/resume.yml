@@ -64,8 +64,8 @@ main: #简历主要内容，
     open: open
 
   - summary: 主要职责
-    - detail: 1.对方的
-    - detail: 2.dfsdf
+  - detail: 1.对方的
+  - detail: 2.dfsdf
     open: open
 
 - type: projects
