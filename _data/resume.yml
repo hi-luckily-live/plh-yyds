@@ -95,7 +95,7 @@ main: #简历主要内容，
     - detail: 3.开发管理端核心功能，如用户登录，系统用户多权限配置，API调用限制与异常记录，医护人员交班信息。
     - detail: 4.独立负责智能门禁平台，RTC人脸识别进入，NFC刷卡进入，用户人脸数据存储，用户权限分配等核心功能的设计，开发与维护。
       open: open
-0j
+
 #- type: projects
 #  name: Projects
 #  content:
