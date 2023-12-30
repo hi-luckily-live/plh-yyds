@@ -95,20 +95,20 @@ main: #简历主要内容，
     - detail: 3.开发管理端核心功能，如用户登录，系统用户多权限配置，API调用限制与异常记录，医护人员交班信息。
     - detail: 4.独立负责智能门禁平台，RTC人脸识别进入，NFC刷卡进入，用户人脸数据存储，用户权限分配等核心功能的设计，开发与维护。
       open: open
-
-- type: projects
-  name: Projects
-  content:
-  - title: 项目名称
-    duration: xxxx年xx月 - yyyy年yy月
-    detail: 项目和工作介绍，项目总结.
-    sub: 维护者
-  - title: Project Name
-    summary: Projects' introduction or summary
-    detail:
-      md: _data/demo.md
-    sub: Creator and maintainer.
-   #可继续添加更多内容
+0j
+#- type: projects
+#  name: Projects
+#  content:
+#  - title: 项目名称
+#    duration: xxxx年xx月 - yyyy年yy月
+#    detail: 项目和工作介绍，项目总结.
+#    sub: 维护者
+#  - title: Project Name
+#    summary: Projects' introduction or summary
+#    detail:
+#      md: _data/demo.md
+#    sub: Creator and maintainer.
+#   #可继续添加更多内容
 
 - type: education #类别为ID
   name: 教育 #显示名称，空则使用type
@@ -118,23 +118,23 @@ main: #简历主要内容，
     sub: 广东东莞
     detail: 计算机软件工程 
 
-#others 其他简略内容(列表)
-others: #其他列表显示
-- type: others #ID可以为空
-  name: '其他'
-  content: #选择需要的格式
-  - 单行文字
-  - title: "加粗:"
-    text: "列表项二"
-  - title: "兴趣:"
-    items: #单行列表
-    - 睡觉
-    - 吃饭
-    - coding
-  - title: 列表
-    list:
-    - 第一项
-    - 第二项
+##others 其他简略内容(列表)
+#others: #其他列表显示
+#- type: others #ID可以为空
+#  name: '其他'
+#  content: #选择需要的格式
+#  - 单行文字
+#  - title: "加粗:"
+#    text: "列表项二"
+#  - title: "兴趣:"
+#    items: #单行列表
+#    - 睡觉
+#    - 吃饭
+#    - coding
+#  - title: 列表
+#    list:
+#    - 第一项
+#    - 第二项
 #- type: 
 #  name: '其他'
 #  content: #选择需要的格式
@@ -147,8 +147,8 @@ footer: #脚注多组
   screen:
   - text: "简历脚注"
   #   href: '/'
-  - text: "Made with &hearts; by NewFuture"
-    href: "https://github.com/NewFuture/CV/"
+  - text: "❤希望与贵公司携手并进共同发展❤"
+    href: "https://hi-luckily-live.github.io/plh-yyds"
 
 #页面额外js脚本，如xx统计
 scripts:
